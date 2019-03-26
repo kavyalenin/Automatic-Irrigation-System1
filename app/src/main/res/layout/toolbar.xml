@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        android:visibility="visible">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:weightSum="1"
+            >
+
+            <RelativeLayout
+                android:layout_width="0.1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.1"
+                android:gravity="center|left">
+
+                <ImageView
+                    android:id="@+id/backButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="35dp"
+                    android:layout_gravity="start"
+                    android:src="@drawable/ic_back_white"
+                    android:visibility="visible" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:id="@+id/titleToolbarLayout"
+                android:layout_weight="0.8">
+                <TextView
+                    android:id="@+id/titleToolbar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text="@string/crops"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:autoSizeMinTextSize="18sp"
+                    android:autoSizeMaxTextSize="100sp"
+                    android:autoSizeStepGranularity="2sp"
+                    android:textSize="18sp"
+                    android:gravity="center"
+                    />
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="0.1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.1"
+                android:gravity="center|left">
+
+                <ImageView
+                    android:id="@+id/saveButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="35dp"
+                    android:layout_gravity="start"
+                    android:src="@drawable/ic_save_white"
+                    android:visibility="visible" />
+            </RelativeLayout>
+        </LinearLayout>
+
+    </android.support.v7.widget.Toolbar>
+</LinearLayout>

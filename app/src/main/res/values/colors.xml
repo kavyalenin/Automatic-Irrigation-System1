@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7500D0</color>
+    <color name="colorPrimaryDark">#7500D0</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="color_login_button">#FF3366</color>
+    <color name="color_login_buttonpress">#EE3162</color>
+    <color name="color_signup_button">#F2F2F2</color>
+    <color name="color_signup_buttonpress">#EBEBEB</color>
+    <color name="color_primary_men">#00ACC1</color>
+    <color name="color_product_bottom">#ffffff</color>
+    <color name="color_edittext_hint">#999</color>
+
+    <color name="color_edittext_label">#fff</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="nav_color">#1C7BCD</color>
+    <color name="login_startcolor">#90FF8B00</color>
+    <color name="barColor">#1C7BCD</color>
+    <color name="login_endcolor">#901C7BCD</color>
+    <color name="login_centercolor">#555994</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="grey_light">#ffe0e0e0</color>
+    <color name="grey_lighter">#f4f4f4</color>
+
+    <color name="divider_grey">#D6DADD</color>
+    <color name="black_semi_transparent">#B2000000</color>
+
+    <color name="grey_text">#333333</color>
+    <color name="text_secondary">#6b6f71</color>
+
+    <color name="transport_anim">#049D74</color>
+
+    <color name="lightgreen">#8bff88</color>
+    <color name="mediumgreen">#60A369</color>
+    <color name="darkgreen">#4bbd42</color>
+    <color name="sludgegreen">#90b48d</color>
+
+    <color name="card_bg">#E4E4E4</color>
+    <color name="green_card">#009A1C</color>
+    <color name="red_card">#FF302B</color>
+    <color name="date_color">#9B9B9B</color>
+    <color name="line_color">#202C48</color>
+
+    <color name="login_button">#7500D0</color>
+
+    <color name="temperature_bg">#616EE8</color>
+
+</resources>

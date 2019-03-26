@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Irrigation</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+
+    <string name="subscribekey">sub-c-306b4c4c-4c76-11e9-bace-daeb5080f5f6</string>
+    <string name="publishkey">pub-c-dbc7edf2-f1bc-452b-81ff-d8d58aac7710</string>
+    <string name="channel_name">Irrigation</string>
+
+    <string name="username">Username</string>
+    <string name="field_required">This field is required</string>
+    <string name="smart_irrigation_system">Smart Irrigation System</string>
+    <string name="crops">Crops</string>
+    <string name="language">Language</string>
+
+    <string-array name="language">
+        <item name="english">English</item>
+        <item name="tamil">Tamil</item>
+    </string-array>
+
+    <string name="lipsum">The second most important food grain cultivated in India is wheat. The Rabi season is the ideal time to grow wheat. The Green Revolution in India paved the way for a substantial development in wheat production in the nation. Since the revolution, the production of the second most important food crop has risen considerably. The elements that contributed to increased wheat production are better seeds, right usage of water supply, and manures. In India, wheat is grown in regions which receive a mean precipitation of 75 cm. The region should also have productive soil. The state of Uttar Pradesh ranks first in terms of wheat production. About 35% of the overall wheat production is done by the state. Other than Uttar Pradesh, states like Haryana and Punjab also produce a significant amount of wheat. In India, wheat is grown in regions which receive a mean precipitation of 75 cm. The region should also have productive soil. The state of Uttar Pradesh ranks first in terms of wheat production. About 35% of the overall wheat production is done by the state. Other than Uttar Pradesh, states like Haryana and Punjab also produce a significant amount of wheat.In India, wheat is grown in regions which receive a mean precipitation of 75 cm. The region should also have productive soil. The state of Uttar Pradesh ranks first in terms of wheat production. About 35% of the overall wheat production is done by the state. Other than Uttar Pradesh, states like Haryana and Punjab also produce a significant amount of wheat.In India, wheat is grown in regions which receive a mean precipitation of 75 cm. The region should also have productive soil. The state of Uttar Pradesh ranks first in terms of wheat production. About 35% of the overall wheat production is done by the state. Other than Uttar Pradesh, states like Haryana and Punjab also produce a significant amount of wheat.</string>
+    <string name="wheat">Wheat</string>
+    <string name="Rye">Rye</string>
+    <string name="Corn">Corn</string>
+    <string name="Rice">Rice</string>
+    <string name="Soybean">Soybean</string>
+    <string name="Peanut">Peanut</string>
+    <string name="Jowar">Jowar</string>
+    <string name="Garlic">Garlic</string>
+    <string name="Ginger">Ginger</string>
+    <string name="Pumpkins">Pumpkins</string>
+    <string name="Tomatoes">Tomatoes</string>
+    <string name="Onions">Onions</string>
+    <string name="Potatoes">Potatoes</string>
+
+    <string name="temperature">Temperature</string>
+    <string name="rainfall">Rainfall</string>
+    <string name="soils">Soils</string>
+    <string name="water_level">Water Level</string>
+
+    <string name="description">Description</string>
+
+    <string name="actual_data">Actual Data</string>
+    <string name="sensor_data">Sensor Data</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="crop_name">Crop Name</string>
+    <string name="debug">Debug</string>
+
+    <string-array name="spinner_list_item_array">
+        <item>Crop</item>
+        <item>@string/debug</item>
+    </string-array>
+
+    <string name="success_upload_attachment">File attached successfully</string>
+    <string name="error_no_camera">No camera available</string>
+    <string name="error_capture_image">Error to capture image</string>
+    <string name="error_nonsuppoert_files">We are not supported this type of files</string>
+    <string name="error_attach_files">Error to get files</string>
+    <string name="error_upload_files">Error to upload files</string>
+
+    <string name="warning_bug">Some bugs found</string>
+    <string name="warning_nobug">No bugs found</string>
+</resources>
